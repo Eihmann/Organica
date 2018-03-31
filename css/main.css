@@ -77,6 +77,7 @@ nav ul li{
        
     
 }
+
 nav ul li a{
     text-decoration: none;
     font-size: 22px;
@@ -143,8 +144,8 @@ nav ul li:last-child{
 
 
 .right_column p{
-   color: #737c85;
-   font-size: 14px;
+    color: #737c85;
+    font-size: 14px;
     line-height: 28px;
 }
 
@@ -157,7 +158,6 @@ nav ul li:last-child{
 .footer{
     background-color: #e77471;
     background-image: url(../img/bg_foot.jpg);
-    
 /*
     background-size: cover;
     background-position: center;
